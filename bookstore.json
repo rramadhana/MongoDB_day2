@@ -1,0 +1,1 @@
+{"message":"Collection bookstore.books already exists.","ok":{"$numberInt":"0"},"code":{"$numberInt":"48"},"codeName":"NamespaceExists"}
